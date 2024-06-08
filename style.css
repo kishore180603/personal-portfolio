@@ -1,0 +1,17 @@
+.first{
+    background-color: #FEFAE0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background-color: #D4A373;
+}
+.button{
+color:#FEFAE0;
+}
+#intro{
+    color: #D4A373;
+
+}
