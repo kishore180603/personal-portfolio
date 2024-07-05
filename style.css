@@ -1,17 +1,9 @@
-.first{
-    background-color: #FEFAE0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .header{
-    background-color: #D4A373;
+    background-color: rgb(34, 34, 34);
 }
-.button{
-color:#FEFAE0;
+.list{
+color: #fff;
 }
-#intro{
-    color: #D4A373;
-
+.list:hover{
+    color :#d3cfb3;
 }
