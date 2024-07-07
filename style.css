@@ -10,3 +10,9 @@ color: #fff;
 .billinvent text{
     color: #222;
 }
+.headername{
+    color: #fff;
+}
+.svg-object {
+    filter: invert(1);
+}
