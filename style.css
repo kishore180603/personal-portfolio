@@ -16,3 +16,6 @@ color: #fff;
 .svg-object {
     filter: invert(1);
 }
+.footer svg{
+    filter: invert(1);
+}
